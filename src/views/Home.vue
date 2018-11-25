@@ -10,7 +10,7 @@
             <h4>price: {{product.price}}</h4>
             <h4>description: {{product.description}}</h4>
             <img v-bind:src="product.images" width= 100px>
-            <button type="button" class="btn btn-success">purchase</button>
+            <a v-bind:href="'/#/products/' + product.id" class="btn btn-primary">More</a>
           </div>
         </div>
       </div>

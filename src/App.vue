@@ -19,6 +19,17 @@
             <a class="nav-link" href="/#/about">About</a>
           </li>
           <li class="nav-item active">
+            <a class="nav-link" href="/#/signup">Signup</a>
+          </li>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="/#/login">Login<span class="sr-only">(current)</span></a>
+          </li>
+           </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="/#/logout">Logout</a>
+          </li>
+          <li class="nav-item active">
             <a class="nav-link" href="/#/test">Test<span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item dropdown">
